@@ -30,6 +30,8 @@ A **social engineering attack** tricks people into revealing sensitive informati
 OSINT involves collecting and analyzing publicly available data to gain intelligence or insight.
 
 > Examples of OSINT tools: Google Dorks, Maltego, Shodan, Recon-ng.
+> ![Screenshot 2025-01-22 144451](https://github.com/user-attachments/assets/0c55a936-81f3-4a76-a693-e224f7517250)
+
 
 ---
 
@@ -49,6 +51,10 @@ OSINT involves collecting and analyzing publicly available data to gain intellig
 | SocialFish | Phishing tool with modern web interface |
 | HiddenEye | Advanced phishing tool |
 | SET (Social Engineering Toolkit) | Official toolkit for phishing and social engineering |
+![blackeye](https://github.com/user-attachments/assets/1ef85034-c768-489d-8474-634e96337914)
+![pyphisher](https://github.com/user-attachments/assets/13e722c2-fb25-4e77-9ade-a2657ce0c15b)
+![zphisher](https://github.com/user-attachments/assets/30f3785e-f81d-4631-a63f-4adb7440d03d)
+
 
 ---
 
